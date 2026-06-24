@@ -1,6 +1,6 @@
 # Olá 👋, Eu me chamo Edson
 
-Estou cursando Engenharia de Software e busco uma oportunidade de atuar na área de Tecnologia da Informação para desenvolver e consolidar minhas competências em um ambiente desafiador, contribuindo de forma estratégica para a geração de valor, inovação e melhoria contínua dos processos, com foco em evolução profissional e entrega de resultados consistentes.
+Estou cursando Ciências da Computação e busco uma oportunidade de atuar na área de Tecnologia da Informação para desenvolver e consolidar minhas competências em um ambiente desafiador, contribuindo de forma estratégica para a geração de valor, inovação e melhoria contínua dos processos, com foco em evolução profissional e entrega de resultados consistentes.
 
 ## Linguagens e Tecnologias
 
